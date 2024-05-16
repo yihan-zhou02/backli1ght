@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Backlight</h1>
-<h3 align="center">A passionate software developer from China</h3>
+<h3 align="center">A passionate software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=backli1ght&label=Profile%20views&color=0e75b6&style=flat" alt="backli1ght" /> </p>
 
 - 🌱 I’m currently learning **backend development tools**
 
-- 📫 How to reach me **backlight0128@163.com**
+- 📫 How to reach me **yz3286@cornell.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
